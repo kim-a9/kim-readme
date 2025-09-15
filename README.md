@@ -14,5 +14,5 @@
 ![ ](https://komarev.com/ghpvc/?username=kim-a9&color=006bed)
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/kimberlyalves9)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Gmail Badge](https://img.shields.io/badge/-kimberlysantosalves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimberlysantosalves@gmail.com)](mailto:kimberlysantosalves@gmail.com)
